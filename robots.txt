@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Alexandrudaniel070-eng.github.io/ngl-community/sitemap.xml
